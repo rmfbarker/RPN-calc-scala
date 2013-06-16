@@ -1,0 +1,8 @@
+.idea/*
+out/*
+target/*
+src/main/.DS_Store
+
+src/main/scala/.DS_Store
+
+*.iml
